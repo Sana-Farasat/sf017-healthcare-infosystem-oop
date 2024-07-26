@@ -1,0 +1,25 @@
+{
+  "name": "sf017-healthcare-infosystem-oop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sana",
+  "license": "MIT",
+  "description": "This is cli based OOP project (Health Care Info System)",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "clear": "^0.1.0",
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/clear": "^0.1.4",
+    "@types/inquirer": "^9.0.7"
+  }
+}
